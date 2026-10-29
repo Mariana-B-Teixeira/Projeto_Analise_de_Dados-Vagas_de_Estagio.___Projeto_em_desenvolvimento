@@ -4,6 +4,8 @@
 
 O projeto utiliza **Python e arquivos CSV** para organizar vagas, identificar competências nos requisitos e diferenciais e contabilizar sua frequência. Como próxima etapa, será desenvolvida uma automação com **n8n e Telegram** para facilitar o registro de novas vagas.
 
+Produzido com o auxílio do ChatGPT, respeitando técnicas de aprendizagem ativa, com o objetivo de adquirir conhecimento de fato sobre o código!
+
 ## 🎯 Objetivo
 
 - Organizar vagas de estágio em uma base de dados.
